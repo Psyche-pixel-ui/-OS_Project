@@ -1,5 +1,5 @@
-OPERATING SYSTEMS PROJECT
-CPU Scheduling and Banker's Algorithm
+#OPERATING SYSTEMS PROJECT
+#CPU Scheduling and Banker's Algorithm
 
 
 PROGRAM:
